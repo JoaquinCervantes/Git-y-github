@@ -1,4 +1,5 @@
 ﻿Datos personales:
+ 
 Nombre y Apellido: Alan Joaquín Cervantes
 Edad: 22
 Localidad: Cruz del eje. 
@@ -6,10 +7,12 @@ Correo: ecervajoa16@gmail.com
 
 
 Transitando instancia de ingreso:
+
 Mi experiencia en el ingreso ha sido bastante enriquecedora y positiva, aprendí varios conceptos, los docentes explican de manera muy clara cada uno de ellos, sin embargo la última clase de este ingreso se me complicó, ya que no me quedaron muy claro los temas Git, github y colab. Pero igualmente sé que a lo largo de la carrera aprenderemos de manera más profunda cada uno de ellos y por lo cual estoy ansioso por empezar a cursar. 
 
 
 Habilidades cognitivas:
+
 -Memoria
 -Razonamiento
 -Percepción
