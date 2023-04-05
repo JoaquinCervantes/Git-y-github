@@ -16,4 +16,4 @@ Habilidades cognitivas:
 -Memoria
 -Razonamiento
 -Percepción
-!git add
+
